@@ -141,6 +141,6 @@ Finalmente, sería posible asignar el dominio, por ejemplo, a la cuenta Ethereum
     
 En caso de que la asignación resulte exitosa, los siguientes comandos devolverían la dirección Ethereum asignada:
 
-    > getAddr(""penalvaperez-rinkeby.test")
-    > publicResolver.addr(namehash(""penalvaperez-rinkeby.test"))
+    > getAddr("penalvaperez-rinkeby.test")
+    > publicResolver.addr(namehash("penalvaperez-rinkeby.test"))
 
